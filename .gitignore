@@ -1,2 +1,5 @@
-VERGE/**
+# exclude everything
+VERGE/*
 
+# exception to the rule
+!VERGE/.gitkeep
