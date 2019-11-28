@@ -44,6 +44,6 @@ docker-machine rm -f default
 docker-machine create -d virtualbox --virtualbox-disk-size "50000" default
 ```
 
-This builds up a 50 GB one
+This builds up a 50 GB VirtualBox VM
 
 
