@@ -35,7 +35,11 @@ docker exec -it dockerverge_verged_1 bash
 
 
 ## For Docker Toolbox:
-Replace `localhost` with the ip you get from `docker-machine ip`
+Replace `localhost` with the ip you get from
+
+```sh
+docker-machine ip
+```
 
 If you are running out of disk space inside the VM -> remove the default VM and build a bigger one (this will erase all your existing docker containers, images, volumes, networks, ...)
 
