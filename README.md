@@ -1,6 +1,6 @@
 # Docker Repository for VERGE Daemon
 
-A quick way to spin up the VERGE Daemon with VERGE binaries (verge:6.0.0)  
+A quick way to spin up the VERGE Daemon with VERGE binaries (verge:6.0.2)  
 (no compliling, conf file support, synced blockchain & wallet support)  
 Works with Docker Toolbox (VirtualBox VM)
 
